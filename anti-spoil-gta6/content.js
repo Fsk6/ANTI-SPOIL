@@ -145,7 +145,7 @@
     ov.id = "gta-shield-page";
     ov.innerHTML =
       "<h1>Page masquée</h1>" +
-      "<p>Cette page parle de GTA 6 et pourrait te spoiler.</p>" +
+      "<p>Cette page pourrait te spoiler.</p>" +
       '<div class="gta-shield-actions">' +
       '<button type="button" class="primary" data-act="back">Retour</button>' +
       '<button type="button" data-act="show">Afficher quand même</button>' +
